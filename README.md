@@ -23,7 +23,7 @@ Above you can see example configurations.
 
 
 # Building
-It is always advicable to build yourself, but prebuild binaries are available for Windows and Linux [here](https://github.com/Juliasmatius/Api-background/releases). Here are the instuctions to build this project.
+It is always advicable to build yourself, but prebuild binaries are available for Windows and Linux [here](https://github.com/Juliasmatius/Api-background/releases). Here are the instuctions to build this project. \
 0. Install python from [their website](https://www.python.org/)
 1. Intall PyInstaller using `pip3 install pyinstaller`
 2. Install dependencies using `pip3 install requests easygui`
