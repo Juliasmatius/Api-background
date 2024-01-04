@@ -17,9 +17,9 @@ notify_success = False
 ; Notify about successfully setting the background.
 ```
 Above you can see example configurations.
-`api` can be cat, dog or fox. This will set which api the code uses to get the images.
-`cat_api_key` is the api key used by the cat and dog api's. You can get yours at [thecatapi.com](https://thecatapi.com/signup)
-`notify_success` chooses weather the code will make a popup after successfully changing the wallpaper.
+`api` can be cat, dog or fox. This will set which api the code uses to get the images. \ 
+`cat_api_key` is the api key used by the cat and dog api's. You can get yours at [thecatapi.com](https://thecatapi.com/signup) PS. Its free \
+`notify_success` chooses weather the code will make a popup after successfully changing the wallpaper. \
 
 
 # Building
@@ -32,3 +32,10 @@ It is always advicable to build yourself, but prebuild binaries are available fo
 5. Wait
 6. Go into the "dist" folder. You should see main.exe there.
 Now you're done. Keep in mind config.ini needs to *always* be precent for the program to run.
+
+
+# Image sources
+Cat images are from [the cat api](thecatapi.com)
+Dog images are from [the dog api](thedogapi.com)
+Fox images are from [randomfox](https://randomfox.ca/)(might update to [foxes.cat](https://foxes.cat/)
+
