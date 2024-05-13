@@ -1,3 +1,6 @@
+# ARCHIVED AND UNMAINTAINED
+This project will no longer be getting updates. The spagetti code is just too low quality and using this on a linux is a mess. Feel free to fork.
+
 # Api-background
 Set your wallpaper based on a random image from an api.
 Prebuilt binaries are available for Windows and Linux [here](https://github.com/Juliasmatius/Api-background/releases). Sorry mac users, i dont have a mac to test/build this.(Please do tell me how it worked though)
